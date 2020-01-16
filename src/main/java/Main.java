@@ -3,4 +3,10 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Nathan ");
     }
+
+    void printBranch(){
+        System.out.println("Branch - nathan");
+    }
 }
+
+
